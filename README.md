@@ -8,7 +8,7 @@
 />
 ```javascript
 const thomasRavache = {
-  interests: 'Desenvolvimento Web em geral'
+  interests: 'Desenvolvimento Web em geral',
   learnings: [
     {
       courseName: 'Desenvolvimento Web',
