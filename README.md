@@ -3,7 +3,7 @@
 <img
   alt="coding"
   align="right"
-  width="320"
+  width="300"
   src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/source.gif"
 />
 ```javascript
