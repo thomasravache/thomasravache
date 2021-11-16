@@ -1,10 +1,10 @@
 <h2>Olá, eu sou Thomas Ravache! <img align="center" height="40" width="40" src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" /></h2>
 
 <img
-  alt="simpsons"
+  alt="coding"
   align="right"
   width="320"
-  src="https://media.giphy.com/media/citBl9yPwnUOs/source.gif"
+  src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/source.gif"
 />
 ```javascript
 const thomasRavache = {
