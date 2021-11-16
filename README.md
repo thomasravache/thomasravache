@@ -107,7 +107,7 @@ const thomasRavache = {
   />
 </div>
 
-</br></br>
+</br>
 <!-- ## Contact me -->
 <!-- Badges de contato -->
 <div
