@@ -114,14 +114,14 @@ const thomasRavache = {
   style="display: inline-block"
   align="center"     
 >
-  <a href="mailto:thomasravache31@gmail.com">
+  <a href="mailto: thomasravache31@gmail.com">
     <img
       align="center"
       alt="gmail"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-  <a href="mailto:thomasravache31@gmail.com">
+  <a href="https://www.linkedin.com/in/thomasravache/">
     <img
       align="center"
       alt="linkedin"
