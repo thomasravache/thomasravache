@@ -62,7 +62,8 @@ const thomasRavache = {
   </a>
 </div>
 
-## Languages and tools
+<!-- ## Languages and tools -->
+</br>
 <!-- Ícones de tecnologia -->
 <div
   style="display: inline-block"
@@ -106,6 +107,26 @@ const thomasRavache = {
   />
 </div>
 
-##
+</br></br>
+<!-- ## Contact me -->
+<!-- Badges de contato -->
+<div
+  style="display: inline-block"
+  align="center"     
+>
+  <a href="mailto:thomasravache31@gmail.com">
+    <img
+      align="center"
+      alt="gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="mailto:thomasravache31@gmail.com">
+    <img
+      align="center"
+      alt="linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</div>
 
-Badges
