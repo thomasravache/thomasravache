@@ -3,7 +3,7 @@
 <img
   alt="simpsons"
   align="right"
-  width="387"
+  width="300"
   src="https://media.giphy.com/media/citBl9yPwnUOs/source.gif"
 />
 ```javascript
@@ -45,13 +45,13 @@ const thomasRavache = {
   <a href="https://github.com/thomasravache">
     <!-- Resumão de commits e etc... -->
     <img
-      height="180em"
+      height="150em"
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=thomasravache&show_icons=true&theme=dark"
     />
     <!-- Top Linguagens -->
     <img
-      height="180em"
+      height="150em"
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasravache&layout=compact&theme=dark"
     />
