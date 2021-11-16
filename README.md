@@ -20,7 +20,7 @@ const thomasRavache = {
   ],
   hobbies: ['Ler', 'Longboarding', 'Ciclismo', 'Coding'],
   nerdLevel: 'Um anel para todos governar', 
-}
+};
 ```
 
 ##
