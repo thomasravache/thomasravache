@@ -3,7 +3,7 @@
 <img
   alt="simpsons"
   align="right"
-  width="300"
+  width="320"
   src="https://media.giphy.com/media/citBl9yPwnUOs/source.gif"
 />
 ```javascript
