@@ -124,8 +124,8 @@ const thomasRavache = {
     alt="express"
     height="30"
     width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-  /> |
+    src="https://icongr.am/devicon/express-original.svg?size=128&color=cccccc"
+  /> | <!-- https://icongr.am/devicon/express-original.svg?size=128&color=cccccc https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=cccccc -->
   <img
     align="center"
     alt="sequelize"
