@@ -110,21 +110,21 @@ const thomasRavache = {
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-  />
+  /> |
   <img
     align="center"
     alt="nodejs"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
-  />
+  /> |
   <img
     align="center"
     alt="express"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-  />
+  /> |
   <img
     align="center"
     alt="sequelize"
