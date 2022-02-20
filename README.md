@@ -25,11 +25,10 @@ const thomasRavache = {
 ```
 
 ##
-
-<div
+<!-- Wakatime user: https://wakatime.com/@thomasravache -->
+<!-- <div
   align="center"
 >
-  <!-- Wakatime user: https://wakatime.com/@thomasravache -->
   <a href="https://github.com/thomasravache">
     <img
       alt="wakatime"
@@ -39,7 +38,7 @@ const thomasRavache = {
   </a>
 </div>
 
-</br>
+</br> -->
 
 <div
   align="center"
