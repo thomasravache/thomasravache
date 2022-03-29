@@ -133,6 +133,13 @@ const thomasRavache = {
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
   />
+  <img
+   align="center"
+   alt="typescript"
+   height="30"
+   width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  />
 </div>
 
 </br>
