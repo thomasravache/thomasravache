@@ -132,7 +132,7 @@ const thomasRavache = {
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
-  />
+  /> |
   <img
    align="center"
    alt="typescript"
