@@ -8,7 +8,8 @@
 />
 ```javascript
 const thomasRavache = {
-  interests: 'Desenvolvimento Web em geral',
+  softSkills: ['Trabalho em equipe', 'Empatia'],
+  inLoveWith: ['Desenvolvimento Web', 'Resolução de problemas'],
   learnings: [
     {
       courseName: 'Desenvolvimento Web',
@@ -163,7 +164,7 @@ const thomasRavache = {
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-   <a href="https://drive.google.com/file/d/1Om651O4cXowfJVFVwTaJokuX-GrALNCz/view?usp=sharing" target="_blank">
+   <a href="https://drive.google.com/file/d/1BheNB_BxczfeZdmiMqCcK8ejb8ava-bO/view?usp=sharing" target="_blank">
     <img
       height="68"
       width="68"
