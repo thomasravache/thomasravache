@@ -1,14 +1,13 @@
 <h2>Olá, eu sou Thomas Ravache! <img alt="gandalf" align="center" height="40" width="40" src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" /></h2>
 
-<img
+<!-- <img
   alt="coding"
   align="right"
-  width="290em"
+  width="100em"
   src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/source.gif"
-/>
+/> -->
 ```javascript
 const thomasRavache = {
-  softSkills: ['Trabalho em equipe', 'Empatia'],
   inLoveWith: ['Desenvolvimento Web', 'Resolução de problemas'],
   learnings: [
     {
