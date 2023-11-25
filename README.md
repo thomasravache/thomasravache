@@ -6,9 +6,9 @@
   width="100em"
   src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/source.gif"
 /> -->
-```javascript
+<!-- ```javascript
 const thomasRavache = {
-  inLoveWith: ['Desenvolvimento Web', 'Resolução de problemas'],
+  inLoveWith: ['Desenvolvimento Web', 'Resolução de problemas],
   learnings: [
     {
       courseName: 'Desenvolvimento Web',
@@ -22,7 +22,7 @@ const thomasRavache = {
   hobbies: ['Ler', 'Longboarding', 'Ciclismo', 'Coding'],
   nerdLevel: 'Um anel para todos governar', 
 };
-```
+``` -->
 
 ##
 <!-- Wakatime user: https://wakatime.com/@thomasravache -->
